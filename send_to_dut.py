@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-__author__ = """
-tal4.cohen@intel.com (Cohen Tal)
-"""
-
 import sys
 import serial
 import logging
